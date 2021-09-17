@@ -1,2 +1,3 @@
 # vgues
-Python project
+Python project/n
+Мой проект, написанный на Python
