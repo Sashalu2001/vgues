@@ -1,3 +1,3 @@
 # vgues
 ## Python project
-## Мой проект, написанный на Python
+## *Мой проект, написанный на Python*
