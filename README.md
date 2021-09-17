@@ -1,2 +1,2 @@
 # vgues
-Python
+Python project
